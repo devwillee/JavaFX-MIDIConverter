@@ -22,7 +22,7 @@ import java.util.ResourceBundle;
 /*
  * Copyright (c) 1999 by Matthias Pfisterer
  * Copyright (c) 2003 by Florian Bomers
- * Copyright (c) 2015 by Lucas Lee
+ * Copyright (c) 2015 by Joohyuk Lee
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
